@@ -1,0 +1,11 @@
+{
+  "doors": [
+    {
+      "door_id": "master_bedroom_door",
+      "room_id": "master_bedroom",
+      "room_name": "主卧",
+      "polygon": [[0.20, 0.48], [0.36, 0.48], [0.36, 0.72], [0.20, 0.72]],
+      "initial_count": 0
+    }
+  ]
+}

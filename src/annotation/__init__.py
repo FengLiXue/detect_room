@@ -1,0 +1,1 @@
+"""Interactive door-frame annotation."""

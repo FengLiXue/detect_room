@@ -1,0 +1,4 @@
+{"timestamp": 7.96, "frame_index": 180, "door_id": "door_001", "room_id": "room_001", "direction": "ENTER", "track_id": 1, "confidence": 0.2472, "evidence": ["head_inside_polygon", "feet_at_threshold", "ankles_at_door", "track_lost_inside"]}
+{"timestamp": 12.88, "frame_index": 322, "door_id": "door_001", "room_id": "room_001", "direction": "EXIT", "track_id": 3, "confidence": 0.6363, "evidence": ["feet_at_threshold", "returned_to_door"]}
+{"timestamp": 31.560000000000002, "frame_index": 770, "door_id": "door_001", "room_id": "room_001", "direction": "ENTER", "track_id": 5, "confidence": 0.2065, "evidence": ["head_inside_polygon", "feet_at_threshold", "ankles_at_door", "track_lost_inside"]}
+{"timestamp": 34.56, "frame_index": 864, "door_id": "door_001", "room_id": "room_001", "direction": "EXIT", "track_id": 7, "confidence": 0.5194, "evidence": ["feet_at_threshold", "returned_to_door"]}
